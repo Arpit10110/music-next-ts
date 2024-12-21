@@ -1,9 +1,9 @@
-import Navbar from "@/components/Navbar";
+import Sec1 from "@/components/Sec1";
 
 export default function Home() {
   return (
     <>
-    <Navbar/>
+    <Sec1/>
     </>
   );
 }
